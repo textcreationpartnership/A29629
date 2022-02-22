@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender greeting and salutation of perfect love and life of truth to the children of the kingdom ...</title>
+            <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29629</idno>
+            <idno type="STC">Wing B486</idno>
+            <idno type="STC">ESTC R551</idno>
+            <idno type="EEBO-CITATION">13413845</idno>
+            <idno type="OCLC">ocm 13413845</idno>
+            <idno type="VID">99467</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29629)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99467)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 782:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender greeting and salutation of perfect love and life of truth to the children of the kingdom ...</title>
+                  <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Daniel Baker.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:99467:1" rendition="simple:additions"/>
+            <head>A TENDER GREETING AND SALUTATION OF Perfect Love and Life of truth, to the Children of the Kingdom. From a Brothe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and living Witneſs, and fellow-ſervant and companion of the Election, and of the Churches of Chriſt ga<g ref="char:EOLhyphen"/>thered by and through the Power and Miniſtration of the Eter<g ref="char:EOLhyphen"/>nal Spirit of the Lord Jeſus, out of the World, into Covenant with God and his Chriſt, over all bleſſed, over all for ever, <hi>Amen.</hi> In which Grace and peace be multiplied and abound to every mem<g ref="char:EOLhyphen"/>ber of the infinite Body of which Chriſt is Head. <hi>Amen,</hi> for ever.</head>
+            <p>M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Friends, ye Babe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Children of Life, of pure innocency, of immortality brought to light, that's clear and marvellous in our eye, that's ſingle, pure holy, unchangeable (without variableneſs) in which the perfect love of the eternal riches of the everlaſting Goſpel, and glorious power of an end<g ref="char:EOLhyphen"/>leſs Life, and its perfect, unſpeakable, bleſſed unity and fellowſhip of us with the Father, with the Son, and one with another, in one and the ſelf-ſame holy Spirit of Faith, and Vertue, and Sanctifi<g ref="char:EOLhyphen"/>cation ſtandeth well, entire and compleat in the pleaſure of the Lord God, according to the proportion of the faith of <hi>Abraham,</hi> in the election diſpenſed to us, and in every of us received unto ſalvation, unto whom the Heavenly Divine Power from on high is come and given (even unto us) bountifully, with the precious things or riches that's durable and unvaluable, treaſures which pertain to
+<pb n="2" facs="tcp:99467:2" rendition="simple:additions"/> life and godlineſs more or leſs, according to the wiſdom of God the Father of our Lord Jeſus Chriſt, and through the manifold di<g ref="char:EOLhyphen"/>ſpenſations of his eternal loving-kindneſſes hath he manifeſted himſelf, and made known the good pleaſures of his Will to us<g ref="char:EOLhyphen"/>ward, in, by and through the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evelatio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, manifeſtation and mini<g ref="char:EOLhyphen"/>ſtration of his unſpotted Lif<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which well witneſſeth and beareth record both of the Father and of the Son, in one Word that chan<g ref="char:EOLhyphen"/>geth not in us, but is the ſame as in the beginning, and before all things, and cannot alter or vary, but remaineth in its own entire, unfathomable, unlimited, boundleſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goodn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs and fulneſs which endureth forever, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho hath called u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with this Eternal Word of Life, of Holineſs, and by the ſame hath wounded and killed, quick<g ref="char:EOLhyphen"/>ened and made alive, to his glory and virtue, with endleſs praiſes in perfect love, in which is no fear that worketh evil or torment but that which worketh good unto edification and perfection. And on how hath the ſame abounded towards you my dear Friends! And how hath the diſtillings from God's right hand (of mercy and good<g ref="char:EOLhyphen"/>neſs) where the Son is, that hath made your very hearts glad in the ſavour of his holy Spirit (the Comforter) ſo that it hath been unexpreſſible to demonſtrate the truth of this what your immortal ſouls have met with, and been made partakers of under the perfect ſence of his unſpeakable love, by his righteous Judgements and Mercies, who hath ſought and called, and found you that were gone aſtray and even loſt in obſcurity, as 'twere without hope of any re<g ref="char:EOLhyphen"/>covery, in the alienation from the Life of God; yea even as exhiled captives, aliens and ſtrangers, from the unchangeable Covenant of promiſe that's ſure to the Seed of the eternal inheritance of the pur<g ref="char:EOLhyphen"/>chaſed poſſeſſion, the ſame that was fore-ordained for you that be<g ref="char:EOLhyphen"/>liev in the Name of the Lord God of immortality before the founda<g ref="char:EOLhyphen"/>tion of the World, to the end that ye may be heir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> together with him that is one with the Father, who hath drawn with the Cords of his Love, by which the bonds of wickedneſſe have been burſt aſſunder, and the Cords of your ſins which have entangled you in captivity, theſe have been broken, and iniquities that are paſt have been finiſh<g ref="char:EOLhyphen"/>ed and blotted out by the ariſing and coming of the juſt one, with his unſpeakable refreſhings of his glorious power, even as the morn<g ref="char:EOLhyphen"/>ing-light of a clear day; yea with ſuch like healings and vertuous refreſhings of the Son of Righteouſneſſe hath he come, that expels the corruptible darkneſſe that hath oppreſt and covered the earth, ſo that by its divine, pure and powerful operation, in the ſtilneſſe
+<pb n="3" facs="tcp:99467:2" rendition="simple:additions"/> of your ſubject on to the ſame Ordin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce that's of God Eternal which he hath ordained to ſubdue contrarieties, and they come to be done away hereby the Croſſe that extends pence, as a River of flowing ſtreams to the poor, to the needy, the hungry and thirſty, to revive &amp; repleniſh the cont<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite in he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt by the very ſame which ſheds its ſaving health <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tifying virtu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to every plant and green thing, to every Tre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buds and bloſſomes, and bears fruit, according to the goodneſſe and pleaſure of the end of the good Husbandman, that well rejoiceth over the choice Vines, and Vin<g ref="char:EOLhyphen"/>yards, and Gardens of the pleaſure of his right hand, where the River ſtreams that makes gl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the beloved City of my God, and his pleaſant Plants add no ſorrow unto his ſoul, but he well-delighteth in them, and taketh pleaſure in them that fear him, and keep their habitations in the firſt love, and behold his mercy and goodneſſe is over them as a lovely banner, and comely Ornament of praiſe; and his fear ſeated in your hearts yet more abundantly manifeſt in the ſight of the Nations, the ſame ſhall be a ſure defence to pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſerve you unto his Heavenly Kingdom of all fulneſs (without limitation.) What if I ſay to ſome, My Babes (and univerſally to all, My Friends, my Brethren, my Siſters) to you are theſe ſayings ſpoken? And what if I ſay of the Loveling of my heart, Verily mine eye hath wel af<g ref="char:EOLhyphen"/>fected mine heart, and I am in perfect love and unity with every of you that love the Lord, and obey his unchangeable truth and name, and ſuffer for it more or leſs? Well, J cannot but tel you on this wiſe, that J heartily love you in the ſame, in no other thing, or name, or word, or life, or what elſe, but in the very thing in which we are Witneſſes of in its diſpenſations, not only of ſalvation, but alſo of condemnation, in their time and ſeaſons; and becauſe the ſame love with which the teſtimony of my Conſcience giveth a good evi<g ref="char:EOLhyphen"/>dence to my underſtanding that J am beloved of my God, the ſame well aboundeth in my very heart to ye, ye faithful of the Lord; therefore do J ſend you here with the greetings of the ſame kind<g ref="char:EOLhyphen"/>neſs to your edification, in the ſame love by which your moſt holy Faith worketh, that together with me herein your pure minds by way of remembrance may be ſtirred up in one ſpirit to bleſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and praiſe the living Lord, as it becometh Saints in Light; and hereby to be the more abundantly quickened unto all wel-pleaſing in the pure preſence, in his Light of his countenance that ſhines over you for good; and J ſay and exhort you in the very ſelf-ſame Spirit of faith and love, to lay aſide, and put far away from you whatſoever would
+<pb n="4" facs="tcp:99467:3" rendition="simple:additions"/> vail or ſeparate from this unvaluable love and goodneſs, virtue and peace of Chriſt which paſſeth knowledge, and with all readineſſe of mind, as it becometh the Election, under the perfect ſence of this unſpeakable love and bleſſed fear of the Lord, to give all diligence to meet in the ſame power of life and virtue, and keep to meetings in the Heavenly Order, to wait upon the Lord in his mercy &amp; fear only overſhadowing of you, that the holy eternal ſtrength &amp; come<g ref="char:EOLhyphen"/>lineſs of the Lord's beauty may adorn you, thereby to be revived in the lovelineſs of your ſouls ſhining upon you, and ſurrounding your Tabernacles; and that the comfort of the bleſſed ſtedfaſt Spi<g ref="char:EOLhyphen"/>rit of Truth in the Life of the Croſs of Jeſus, together with the re<g ref="char:EOLhyphen"/>newings of the Holy Ghoſt, you may receive the ſame in all your Meetings, to every of you, your particular and everlaſting ſatisfacti<g ref="char:EOLhyphen"/>on, and aſſured confidence in the holy faith and patience of the Saints in Light (without doubting) and ſo your fruit may abound unto holineſs, and the end of the ſame ye may receive even imme<g ref="char:EOLhyphen"/>diately from the right hand of God, which is eternal life, and this is the end of your bleſſed confirmation of your moſt holy Faith in every particular, and in your bleſſed Aſſemblies, ſo that ye know the Way and the Truth undoubtedly, wherein ye may preciouſly receive of his fulneſs from the bountiful hand of Eternal Life, which is not hid from you (as in times paſt) the which comes imme<g ref="char:EOLhyphen"/>diately from God, the clear and unfathomable Fountain of all ful<g ref="char:EOLhyphen"/>neſs, and lives for ever in the holy Seed of laſting righteouſneſſe, which is revealed and come very nigh us, the which breaths and maketh interceſſion in the acceptation of that which is holy and ſpiritual, without ſpot to God.</p>
+            <p>To this end my very dear Friends, my tenderly beloved in God, the Spirit of Love and of the fear of the Lord is upon me to put you in remembrance of theſe things that are one and the ſame with the beginning of your Faith, in the Truth and Love that's perfect, ſound and pure, that neither thinketh nor worketh evil; behold this is the excellent Way that tends to edifie the whole Body, and every particular Member receiveth ſtrength, life and virtue, in unity with the Head Chriſt, the Seed, the Stone that's precious, the Rock and ſaving-health, even the Foundation of God that ſtandeth ſure, and is over his own Houſe alſo in the great Myſterie of God, whoſe Houſe are we, if immovably we abide faithful, holding faſt the good be<g ref="char:EOLhyphen"/>ginning of our confidence in the Head Chriſt, firm unto the end: However we know God's Foundation it ſtandeth ſure; and this ye
+<pb n="5" facs="tcp:99467:3" rendition="simple:additions"/> know that if we ſhould deny him either in the fellowſhip of his ſuf<g ref="char:EOLhyphen"/>ferings unto which we have been called with holineſs, and ſo not to confeſs him (through the ſame) before men; yet he without doubt<g ref="char:EOLhyphen"/>ing or controverſie in any wiſe cannot deny himſelf, albeit a Cloud receives him out of the ſight of many, who ſhall not ſee his face till they ſay (who have pierced him) <hi>Bleſſed is he that cometh in the Name of the Lord;</hi> yea, and my Spirit ſhall gladly ſay, Even ſo <hi>Amen:</hi> Come Lord Jeſus, come quickly, that the afflicted and upright in heart may languiſh no more, but triumph in glory, and be filled with gladneſs of heart in perfect quietneſs in their expected end, for which my ſoul (as a Dove) often mourneth, travelling in love through diſtreſſes, often diſtreſſed for thy ſake, oh thou whoſe Re<g ref="char:EOLhyphen"/>nown is from everlaſting, and thy memorial ſhall never end, that thou maiſt be raiſed upon high over all, to be a Royal Diadem in the hand of thy mighty God; my ſoul longeth for this with ma<g ref="char:EOLhyphen"/>ny Brethren; lo we travel in pain often for thy ſake, thou Royal Seed of Nobles, the lovelineſs of thy Progenitors, the Heavens are diſſolved with unſpeakable love, and the Heavenly Hoſts, behold how they travel in order for the brightneſs of thy riſing over all Nations, that thy Dominions, and the largeneſs of thy unlimited extent thou maiſt poſſeſs, as is meet, that the ſons of Nobles, and Daughters of eternal Renown, with Kings in glory may rejoice in thy fame, and feed thee with the pureſt of good things, even the Heritage of <hi>Jacob</hi> thy Father; and for thy ſake, oh thou lovelineſs of my heart, how often am J undone for thee! The Brethren and ſtrip<g ref="char:EOLhyphen"/>lings of my Father's Houſe, how dearly do they love thee! how wil<g ref="char:EOLhyphen"/>lingly are we overcom with thy lovelineſs to ſuffer even for thy ſake! Shall J break forth in mourning? or ſhall J take up a doleful lamen<g ref="char:EOLhyphen"/>tation for many that have loved thee a little ſeaſon, till ſomewhat obſcured their eye, and their back parts is towards thee? Oh! alas! alas! yea wo and alas for them! Oh! J have travelled in pain night and day for their ſakes, inſomuch J could even cry aloud and ro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as a Lyonneſs bereaved of her young; the eccho might reach th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heavens to be aſtoniſhed at this, as in the ancient days when <hi>Iſrael</hi> himſelf wrought folly, and hewed out Ciſterns imperfect, being de<g ref="char:EOLhyphen"/>parted from the Fountain. Wherefore let all hear and fear, becauſe the mighty day of the Lord is great, and the tryal and travel of the Lot of his inheritance is no leſs, and the ſence and weighty ſence of theſe things boweth my heart and ſoul even to death before the Lord often, ſo that J know many brethren on this wiſe travel, and
+<pb n="6" facs="tcp:99467:4" rendition="simple:additions"/> pure innocency is ready to cry out, being diſſolved into pure virtue in its travel, ſaying, Lord, how long? how long Lord? ſhall it be always thus? Surely no, ſaith the anſwer of my God; the many days of thy travel and mourning ſhall have an end, and thy Work ſhall be rewarded; neither ſhall the renown and ſame of my people be extinguiſhed, but encreaſe as the Sun and Moon in their courſe and order, from generation to generation; and J am the Lord their God in faithfulneſs and truth, without variableneſs, and ſo they are, and for ever ſhall be my people, their Dominion from ſea to ſea ſhall extend without limitation, and the borders of wickedneſſe as chaſt and duſt under the ſoles of their feet, ſhall not hurt them; the pure Breath of Life Eternal hath ſpoken it, by the living Word of the Lord that ſhall ſtand for ever. Wherefore be not diſmayed nor caſt down with over-much ſorrow, though thy travels be not a lit<g ref="char:EOLhyphen"/>tle; in the mighty ſtrength of thy God, oh thou afflicted and be<g ref="char:EOLhyphen"/>loved of my ſoul, thine eye ſhall perfectly behold <hi>Jeruſalem</hi> (the <hi>Mount Sion</hi> of my God) with her free-born compleatly eſtabliſhed, the lovely and deſirable praiſe of the whole earth; yea, and more then is lawful to be uttered. Wherefore yet be bold and valiant, and put on courage, with the lovely Armor of eternal ſalvation, ye ſons, ye harmleſs ſons and daughters of <hi>Sions</hi> Lamb, that bears the weighty iniquities, and finiſheth the ſame, and takes them a<g ref="char:EOLhyphen"/>way; and cloaths his people with his Name, and with the lovely Garments of Praiſe, and opens the healing Fountain of Wiſdom from above, in the holy Spirit of the Lord's fear, which preſerves through many tribulations; and then he like a good ſhepherd leads to the living Fountains of Water, where the weary and thir<g ref="char:EOLhyphen"/>ſty are wel ſatisfied under the light and ſhadow of his countenance that ſits in the midſt of the Throne, who ſaith, <hi>I will give freely to him that is a thirſt;</hi> therefore the Spirit and the Bride ſaith, Come, with him that heareth and is a thirſt, as is the Meſſage of the Angel to the Churches, and not to the fearful and unbelieving; and to you ye beloved of the Lord that retain your firſt Love, is my very heart open in the ſame, and therefore the more am J enlarged: Where<g ref="char:EOLhyphen"/>fore my dearly beloved, be like-minded; let the ſame unchangea<g ref="char:EOLhyphen"/>ble mind be in you, and abound, that dwells in the holy Seed with<g ref="char:EOLhyphen"/>out change or ſhadow of turning, that's both ſure and peaceable, without fraud or guile, and is watchful for good, and not for evil, that in his ſtrength who wiſely maketh all Grace to abound in every good word and work, ye may ſtand firm and unblameable, and com<g ref="char:EOLhyphen"/>pleat
+<pb n="7" facs="tcp:99467:4" rendition="simple:additions"/> before him in love, which is the end and beginning of all Miniſtrations that ac<g ref="char:EOLhyphen"/>companieth the Divine Power which God Eternal hath made known to you; and the holy and effectual operation of the ſame Goſpel of peace more or leſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, my God that liveth for ever hath made known, and honored you withal, what if I ſay more over and above all the Families of the Earth?</p>
+            <p>Wherefore, oh ye bleſſed of the Lord, forget not his pure ſayings in the ancient days, ſpoken by the ſame Life, to the ſame Seed, of which you are united and made partakers, ye that tremble at his Word; your brethren that hated you, that caſt you out for my Names ſake, ſaid, <hi>Let the Lord be glorified;</hi> but he ſhall appear to your joy, and they ſhall be aſhamed; while ye may ſay, Oh Lord, I will praiſe thee; though thou waſt angry with me, thine anger is turned away, and thou comforteſt me <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Behold, God is my ſalvation, I will truſt, and not be afraid; for the Lord Je<g ref="char:EOLhyphen"/>hovah is my ſtrength: &amp;c. Wher<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore with joy ſhal ye draw water out of the well<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Salvation. Oh how h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s your Light ariſen out of obſcurity! you whoſe ſoul ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been revived and drawn out to the hungry and to the afflicted ſoul, has been well ſatisfied with thee and thy bountifulneſs, thou bleſſed Seed of the Lord's annoint<g ref="char:EOLhyphen"/>ing; he ſhall guide thee continually, and ſatisfie thy ſoul in drought, and make fat thy bones, and thou ſhalt be like a watered Garden, whoſe waters fall not; for your ſake are theſe who are arrayed in white, having paſt through many tribulations, fol<g ref="char:EOLhyphen"/>lowing the Lamb (through the ſame) then he leads to living Fountains opened for the Houſe of <hi>David,</hi> whoſe Tabernacle is raiſed up for the tribes of the Lord's an<g ref="char:EOLhyphen"/>nointing, and the diſperſed of <hi>Iſrael,</hi> the inhabitants of <hi>Sion,</hi> the Mountain of holi<g ref="char:EOLhyphen"/>neſs in <hi>Ieruſalem;</hi> that's free, with her inhabitants, true <hi>Iſraelites</hi> indeed, in whoſe mouth is no guile, my ſoul i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knit unto ye. Well, I have much within my heart to ſay of the goodneſs, and mercy, and righteous Judgements of the Lord God of truth, which are more precious then fined ſhining Gold, &amp; bleſſed is the man that's made a partaker hereof, and keeps them, the fear of my God as a beautiful Crown of Wiſdom's Life, ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be his goodly treaſure, to preſerve him from the power of the ſword, which ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll devour the Adverſaries that refuſe and rebel againſt the Light and Counſel of my God. His ſaving-health ſhall not be hidden from thine eye, O thou tender, upright, mourning Plant, and branch of Righteouſneſs, the days of thy mourning ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll have an end in thy beloved, thy expected end, and his bowel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of mercy and tender pity ſhall not be eſtranged any more at all from thee, thou be<g ref="char:EOLhyphen"/>loved ſeed of pure innocency, that has heard the joyful ſound, the voice of thy be<g ref="char:EOLhyphen"/>loved, Lo, thy Companions, the Children of thy Father's Houſe ſhall joy in the Lord, and well rejoice in the Holy One of <hi>Iſrael,</hi> becauſe of thee and thy faith<g ref="char:EOLhyphen"/>fulneſs to thy mighty God, and tell of his wondrous works, and talk of the power of his might, in whoſe mouth never any guile was found; ſuch a true <hi>Iſraelite,</hi> ſuch a High Prieſt becomes us, who is holy, harmleſs, undefiled, ſeparate from ſin and ſinners, that offered up himſelf without ſpot to God through the eternal Spirit of ſanctification. Let every member feel and partake of the ſame virtue in the Electi<g ref="char:EOLhyphen"/>on; feel and ſavour the ſame dwell in them, and run through them, to the purifying of your hearts, as is meet in the Lord, that ſpirit; the eternal riches and bleſſings h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s been hid in the ſame from ages and generations; my heart wiſheth they may all abound with the mercies of God the Father of our Lord Jeſus, to every of you in his life, who is riſen from the dead, and from their Congregations, and lives and reigns in the lively Witneſſes of his death and reſurrection, to whom with the Fa<g ref="char:EOLhyphen"/>ther be eternal glory and reverence, power and might, with endleſs praiſes and ever<g ref="char:EOLhyphen"/>laſting
+<pb n="8" facs="tcp:99467:5" rendition="simple:additions"/> Dominion in all, and through all that love his appearance in the un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hangeable Light of his countenance; and ſo over all be thankſgivings, <hi>Amen.</hi> And let the upright in heart ſay ſo; and behold they, even they that are yet afar off, ſhall come up to <hi>Sion</hi> the holineſs of my beloved, with ſongs of deliverance, making me<g ref="char:EOLhyphen"/>lody becauſe of the perfect beauty and glory of my God, which hath ſhined upon them that fear him, and behold him face to face; yea, and the lovelineſs of my heart, the Seed of the bleſſed, the joy of many generations, and the deſire of the Nati<g ref="char:EOLhyphen"/>ons of peace and plenty, he ſhall come that will come, and not tarry, with his re<g ref="char:EOLhyphen"/>ward in his right hand in the bright Heavenly Clouds, and lo they ſhall diſtil and drop down new Wine, with the early and latter rain of vertuous righteouſneſs upon the tender plants and trees of virt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, planted and ſeated within the Garden of im<g ref="char:EOLhyphen"/>mortality; and the tender Babes and Children of the Kingdom of eternal life ſhall with joy unſpeakable rejoice in the abundant fulneſs of the glory of the Lord, that's King of <hi>Sion,</hi> in <hi>Ieruſalem</hi> that's free from above, becauſe of the abundance of peace and truth, and unutterable virtue, and ſanctifying riches of the everlaſting Foun<g ref="char:EOLhyphen"/>tain of Eternity that's opened in <hi>Sion</hi>'s holy Hill, and its ſtreams purely deſcend and iſſue forth to the ends of the earth, to fetch thy ſons from far, and thy daugh<g ref="char:EOLhyphen"/>ters from the Lyons dens, &amp; from the Mountains of the Leopards, to worſhip the Lord the King, the Holy One of <hi>Iſrael,</hi> who teacheth his people, children that will not lye; and they that are not, ſhall ſay as in the ancient days, Come oh Houſe of <hi>Jacob,</hi> come let us go up to the Mountain of the Lords Houſe, he wil teach us of his ways, and we will walk in his paths; and lo their faces ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſhine with pure innocency that come to live under the hiding of his power, under the ſhadowing of the ſtedfaſt ſpirit of glory, of the fear of the Lord, which ſhall cover them as a very lovely garment of praiſe without, but the glory ſhall excel within; where uprightneſs, in<g ref="char:EOLhyphen"/>nocency and pure integrity to its firſt Love liveth &amp; is preſerved in the inner Court, (which looketh Eaſtward towards the ſun riſing) of the beauty of holineſs, with<g ref="char:EOLhyphen"/>out guile, in the pleaſure of the Lord, at whoſe right hand the River ſtreams, and ſo the lovely ſeed of his annointing ſhall flouriſh and bear much fruit, and ſhoot forth its branches, and ſpread abroad its faithful fruitful bows over the lovely Walls of ſal<g ref="char:EOLhyphen"/>vation of the City of my God; ſo he that overcometh, ſhall inherit all things. And ſo bleſſed and holy is he that has part in the firſt reſurrection over ſuch the ſecond death ſhall have no power, as faith the Angel to the Churches; Theſe ſayings are faithful and true, and holy; and bleſſed is he that reads and lives in the integrity and faithfulneſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the God of <hi>Abraham,</hi> to the end, and in the ſame do I commend every of you to whom I write, in the Covenant of Eternity to be preſerved ſtedfaſt and entire to the beginning, the ſure Foundation of God Eternal, who is the Light, and Life, and glory, and everlaſting ſtrength and beauty of the Election, in whom from everlaſting to everlaſting he is to be glorified; and ſo let him be praiſed who is that eternal unchangeable ſpirit of pure and matchleſs ſubſtance and virtue Divine, even God bleſſed for ever, <hi>Amen</hi> and <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Worceſter</hi> City-Gaol for the Teſtimony of Jeſus, and Word of God, and his pure way of Worſhip, a Priſoner <date>this third Month, the 12th day, 1663.</date>
+               </dateline>
+               <signed>Daniel Baker.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:99467:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
